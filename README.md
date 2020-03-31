@@ -1,6 +1,6 @@
-# myflutterapp
+# Flutter Components Example
 
-A new Flutter project.
+I have tried to use all flutter components in one screen for make practicing.
 
 ## Getting Started
 
